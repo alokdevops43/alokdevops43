@@ -1,6 +1,6 @@
 ## Hi, I'm Alok
 
-* Currently implementing software and DevOps
+* I develop software projects from conception to deployment.
 * implementing  development, Git, Docker, Kubernetes, and AWS
 * Building projects and documenting my progress
 * Interested in Automation, Infrastructure, and Cloud Technologies
